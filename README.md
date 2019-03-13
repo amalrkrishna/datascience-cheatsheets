@@ -1,6 +1,6 @@
 # Data Science Cheat Sheets and Study Materials
 
-## Probability Cheat Sheet (Andrew NG - Deep Learning Course)
+## Probability Cheat Sheet ()
 [Deep Learning Cheat Sheet](materials/ProbabilityCheatSheet.pdf "Probability Notes")
 
 <img src="images/p-1.png" width="200"/> <img src="images/p-2.png" width="200"/> 
