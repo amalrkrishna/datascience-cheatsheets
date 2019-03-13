@@ -19,6 +19,11 @@
 <img src="images/ml-1.png" width="200"/> <img src="images/ml-2.png" width="200"/> 
 <img src="images/ml-3.png" width="200"/> <img src="images/ml-4.png" width="200"/> 
 
+[Advice for Applying Machine Learning (Stanford CS229)](materials/MLAdviceAndrewNG.pdf "ML Advice Notes")
+
+<img src="images/a-1.png" width="200"/> <img src="images/a-2.png" width="200"/> 
+<img src="images/a-3.png" width="200"/> <img src="images/a-4.png" width="200"/> 
+
 ## Deep Learning Cheat Sheets
 [Deep Learning Notes (from Andrew NG's class)](materials/DeepLearningNotes.pdf "Deep Learning Notes")
 
