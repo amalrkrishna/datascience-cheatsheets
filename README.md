@@ -37,7 +37,14 @@
 
 
 ## Deep Learning Cheat Sheets
-[Deep Learning Notes (from Andrew NG's class)](materials/DeepLearningNotes.pdf "Deep Learning Notes")
+[Deep Learning Notes (from Andrew NG's Coursera class)](materials/DeepLearningNotes.pdf "Deep Learning Coursera Notes")
 
 <img src="images/dl-1.png" width="200"/> <img src="images/dl-2.png" width="200"/> 
 <img src="images/dl-3.png" width="200"/> <img src="images/dl-4.png" width="200"/> 
+
+[Deep Learning Cheat Sheet (Stanford CS230)](materials/DeepLearningCheatSheet.pdf "Deep Learning Stanford Notes")
+
+<img src="images/dlc-1.png" width="200"/> <img src="images/dlc-2.png" width="200"/> 
+<img src="images/dlc-3.png" width="200"/> <img src="images/dlc-4.png" width="200"/> 
+
+
