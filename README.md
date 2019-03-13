@@ -1,7 +1,7 @@
 # Data Science Cheat Sheets and Study Materials
 
 ## Probability Cheat Sheets
-[Probability](materials/ProbabilityCheatSheet.pdf "Probability Notes"){:target="_blank"}
+[Probability](materials/ProbabilityCheatSheet.pdf "Probability Notes")
 
 <img src="images/p-1.png" width="200"/> <img src="images/p-2.png" width="200"/> 
 <img src="images/p-3.png" width="200"/> <img src="images/p-4.png" width="200"/> 
