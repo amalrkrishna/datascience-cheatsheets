@@ -20,7 +20,7 @@
 <img src="images/ml-3.png" width="200"/> <img src="images/ml-4.png" width="200"/> 
 
 ## Machine Learning Books
-[100 Page Machine Learning Book (Andriy Burkov)](materials/100MLBook.pdf "ML Notes")
+[100 Page Machine Learning Book (Andriy Burkov)](materials/100MLBook.pdf "ML Notes") - [Buy ML Book](http://themlbook.com "Buy MLBook")
 
 <img src="images/mlb-1.png" width="200"/> <img src="images/mlb-2.png" width="200"/> 
 <img src="images/mlb-3.png" width="200"/> <img src="images/mlb-4.png" width="200"/> 
