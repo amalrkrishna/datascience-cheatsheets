@@ -59,6 +59,3 @@ URL Shortener, Instagram, Load Balancing & Cache in free preview mode.
 
 Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter
 
-<img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
-<img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
-
