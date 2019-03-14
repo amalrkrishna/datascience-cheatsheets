@@ -49,8 +49,16 @@
 
 
 ## System Design
+<img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
+<img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
 [Grokking the system design](https://www.educative.io/collection/5668639101419520/5649050225344512 "Grokking the system design")
-URL Shortening, Instagram, Load Balancing & Cache in free preview mode.
+
+URL Shortener, Instagram, Load Balancing & Cache in free preview mode.
+
+[Interview Bit](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design")
+
+Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter
 
 <img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
 <img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
+
