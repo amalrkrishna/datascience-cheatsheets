@@ -53,7 +53,7 @@
 <img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
 
 1. [Grokking the system design](https://www.educative.io/collection/5668639101419520/5649050225344512 "Grokking the system design") - URL Shortener, Instagram, Load Balancing & Cache in free preview mode.  
-2. [Interview Bit](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design") - Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter.
+2. [Interview Bit - System Design](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design") - Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter.
 
 ## Algorithms, Data Structures and SQL
 <img src="images/algo-1.png" width="200"/> <img src="images/algo-2.png" width="150"/> 
@@ -61,6 +61,7 @@
 1. [LeetCode](http://leetcode.com/ "LeetCode")  
 2. [Cracking the coding interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf "Cracking the coding interview")  
 3. [Hackerrank](https://www.hackerrank.com "Hackerrank")  
+4. [Interview Bit - Programming](https://www.interviewbit.com/courses/programming/ "Interview Bit - Programming")
 
 ## Commonly Asked Questions
 1. [Analytics Vidya Comprehensive Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/ "LeetCode")   
