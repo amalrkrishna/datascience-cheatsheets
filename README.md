@@ -1,4 +1,5 @@
 # Data Science Cheat Sheets and Study Materials
+This is the compilation of cheat sheets and study materials for Data Science. The materials are trigged more towards folks who are looking for interview preparation and review materials. Not too overwhelming, but not too less either. I would also like to thank all the people who put forward their time and effort to make these materials a reality.
 
 ## Probability Cheat Sheets
 [Probability](materials/ProbabilityCheatSheet.pdf "Probability Notes")
