@@ -48,3 +48,9 @@
 <img src="images/dlc-3.png" width="200"/> <img src="images/dlc-4.png" width="200"/> 
 
 
+## System Design
+[Grokking the system design](https://www.educative.io/collection/5668639101419520/5649050225344512 "Grokking the system design")
+URL Shortening, Instagram, Load Balancing & Cache in free preview mode.
+
+<img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
+<img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
