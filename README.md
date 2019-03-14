@@ -44,9 +44,11 @@ This is the compilation of cheat sheets and study materials for Data Science. Th
 
 ## Machine Learning Best Practices
 <img src="images/a-1.png" width="200"/> <img src="images/a-2.png" width="200"/> 
+<img src="images/a-3.png" width="200"/> 
 
 1. [Advice for Applying Machine Learning (Stanford CS229)](materials/MLAdviceAndrewNG.pdf "ML Advice Notes")  
 2. [Rules of Machine Learning (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml/ "ML Rules by Google")
+3. [Data Fallacies to avoid](materials/DataFallacies.pdf "Data Fallacies")
 
 ## System Design
 <img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
