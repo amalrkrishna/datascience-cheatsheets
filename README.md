@@ -61,7 +61,7 @@
 <img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
 <img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
 
-[LeetCode](http://leetcode.com/ "LeetCode")
+1. [LeetCode](http://leetcode.com/ "LeetCode")  
+2. [Cracking the coding interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf "Cracking the coding interview")  
 
-[Cracking the coding interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf "Cracking the coding interview")
 
