@@ -45,17 +45,15 @@
 <img src="images/a-1.png" width="200"/> <img src="images/a-2.png" width="200"/> 
 <img src="images/a-3.png" width="200"/> <img src="images/a-4.png" width="200"/> 
 
-[Advice for Applying Machine Learning (Stanford CS229)](materials/MLAdviceAndrewNG.pdf "ML Advice Notes")
-
-[Rules of Machine Learning (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml/ "ML Rules by Google")
+1. [Advice for Applying Machine Learning (Stanford CS229)](materials/MLAdviceAndrewNG.pdf "ML Advice Notes")  
+2. [Rules of Machine Learning (Google)](https://developers.google.com/machine-learning/guides/rules-of-ml/ "ML Rules by Google")
 
 ## System Design
 <img src="images/sd-1.png" width="200"/> <img src="images/sd-2.png" width="200"/> 
 <img src="images/sd-3.png" width="200"/> <img src="images/sd-4.png" width="200"/> 
 
-[Grokking the system design](https://www.educative.io/collection/5668639101419520/5649050225344512 "Grokking the system design") - URL Shortener, Instagram, Load Balancing & Cache in free preview mode.
-
-[Interview Bit](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design") - Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter
+1. [Grokking the system design](https://www.educative.io/collection/5668639101419520/5649050225344512 "Grokking the system design") - URL Shortener, Instagram, Load Balancing & Cache in free preview mode.  
+2. [Interview Bit](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design") - Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter
 
 ## Algorithms and Data Structures
 <img src="images/algo-1.png" width="200"/> <img src="images/algo-2.png" width="150"/> 
