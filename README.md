@@ -58,8 +58,7 @@
 [Interview Bit](https://www.interviewbit.com/courses/system-design/ "Interview Bit - System Design") - Cache, Sharding, Highly Available, Highly Consistent, URL Shortener, Search, Messenger, Twitter
 
 ## Algorithms and Data Structures
-<img src="images/algo-1.png" width="200"/> <img src="images/algo-2.png" width="200"/> 
-<img src="images/algo-2.png" width="200"/> <img src="images/alog-2.png" width="200"/> 
+<img src="images/algo-1.png" width="200"/> <img src="images/algo-2.png" width="150"/> 
 
 1. [LeetCode](http://leetcode.com/ "LeetCode")  
 2. [Cracking the coding interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf "Cracking the coding interview")  
